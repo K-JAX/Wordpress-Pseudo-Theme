@@ -10,8 +10,7 @@ Wordpress Pseudo Code files that tell you what to do, but not how to do it.
 `git clone https://github.com/K-JAX/webpack-pseudo-helper.git`
 1. Start coding on any of the files! 
 [OPTIONAL] If you prefer to follow an instructed series of steps, follow my personally preferred sequence of coding below. _Just my workflow, feel free to disagree and jump around to your heart's content_ ;)
-    1. Start 
-    1. test
+    1. Coming soon! 💩
 
 
 ## Why Pseudo Theme?
