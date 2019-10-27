@@ -11,7 +11,7 @@ cd [local]/[wordpress]/wp-content/themes/
 ```
 2. Clone this repository
 ```
-git clone https://github.com/K-JAX/webpack-pseudo-helper.git
+git clone https://github.com/K-JAX/Wordpress-Pseudo-Theme.git
 ```
 3. Start coding on any of the files! 
 [OPTIONAL] If you prefer to follow an instructed series of steps, follow my personally preferred sequence of coding below. _Just my workflow, feel free to disagree and jump around to your heart's content_ ;)
