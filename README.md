@@ -1,6 +1,5 @@
 # Wordpress Pseudo Theme
 ## _Training wheels for writing your own wordpress theme_
----
 Wordpress Pseudo Code files that tell you what to do, but not how to do it.
 
 
@@ -29,3 +28,9 @@ So if you're wondering which projects you should consider using the Pseudo Theme
 1. **Do I want to have a routine exercise of adding certain parts to a functioning theme?**
 
 _If you answered yes to any of the above, you may want to try out the Wordpress Pseudo Theme_
+
+## My (Kevin/K-JAX's) list of to-dos
+- [x] start repository and instructions
+- [ ] add submodule git pseudo projects to this theme
+- [ ] finish the basic theme files pseudo code
+- [ ] Add instruction to going to individual submodules if only a specific feature needs to be added for user's own local wordpress theme
