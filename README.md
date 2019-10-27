@@ -4,10 +4,10 @@ Wordpress Pseudo Code files that tell you what to do, but not how to do it.
 
 
 ### Installation
-1. Make sure you cd to your local wordpress install's themes directories.
+1. Make sure you cd to your local wordpress install's themes directory.
+_Change [local] and [wordpress] to your local wordpress install._
 ```
-# change "local/wordpress" to your local wordpress path
-cd local/wordpress/wp-content/themes/
+cd [local]/[wordpress]/wp-content/themes/
 ```
 1. Clone this repository
 ```
